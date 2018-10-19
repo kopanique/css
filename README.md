@@ -1,6 +1,6 @@
-# Airbnb CSS / Sass Styleguide
+# Airbnb CSS / Sass: Style Guide
 
-*A mostly reasonable approach to CSS and Sass*
+*A mostly reasonable approach to CSS and Sass.*
 
 ## Table of Contents
 
